@@ -50,7 +50,7 @@ export default function Footer(){
             </div>
            
         </div>
- <div className="max-w-[1280px] m-auto w-full text-center text-5xl lg:text-[275px] font-bold  dark:text-[#d4d4d4]">
+ <div className="max-w-[1280px] m-auto w-full text-center text-5xl lg:text-[275px] font-bold  !text-[#d4d4d4]">
  STARTUP
             </div>
         </div>
