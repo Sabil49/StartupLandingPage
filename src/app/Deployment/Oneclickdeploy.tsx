@@ -8,7 +8,7 @@ export default function Oneclickdeploy(){
        <div className=" grid grid-cols-1 md:grid-cols-3 gap-4 max-w-lg m-auto lg:my-12 w-full relative z-30 [perspective:1000px] [transform-style:preserve-3d] p-4 lg:p-8 sm:p-0">
          <div className="w-full h-14 md:h-40 p-2 rounded-lg relative shadow-lg flex bg-gradient-to-b from-white to-white dark:from-neutral-800 dark:to-neutral-700 overflow-hidden px-2 flex-col justify-center font-mono items-start text-neutral-800 dark:text-[#d4d4d4]">
             <p className="text-[8px] bg-transparent ">git add .</p>
-            <p className="text-[8px] bg-transparent">git commit -m "update"</p>
+            <p className="text-[8px] bg-transparent">git commit -m &quotupdate&quot</p>
             <p className="text-[8px] bg-transparent">git push</p>
          </div>
          <div className="w-full h-14 md:h-40 p-2 rounded-lg relative shadow-lg flex items-center bg-gradient-to-b from-white to-white dark:from-neutral-800 dark:to-neutral-700 justify-center">
